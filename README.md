@@ -1,2 +1,2 @@
-# VideoPlayer
+# VideoPlayer - SwiftUI
 VideoPlayer build with SwitUI
