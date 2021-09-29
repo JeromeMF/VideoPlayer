@@ -1,2 +1,2 @@
 # VideoPlayer
-VideoPlayer build witrh SwitUI
+VideoPlayer build with SwitUI
